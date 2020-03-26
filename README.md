@@ -42,4 +42,7 @@ Command list with descriptions to track changes in the repository:
 8) git revert - create new commit based on the change which checkout previously 
 9) git rm --cached - remove file from staging
 
-These are all commands what you need to learn!
+Gui commands:
+
+1) To create new branch: Branch -> Create
+2) To show changes: click Rescan button on bottom right box
