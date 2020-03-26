@@ -13,4 +13,5 @@ This is my first Git project.
     git remote add test https://github.com/azizka85/test.git
 7) To push changes to the server:
     git push origin master
-
+8) To pull request from the server:
+    git pull origin master
