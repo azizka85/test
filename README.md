@@ -13,4 +13,21 @@ This is my first Git project.
     git remote add test https://github.com/azizka85/test.git
 7) To push changes to the server:
     git push origin master
+8) To pull request:
+    git pull origin master
+
+To track changes on this repository:
+
+1) git log - log of all changes 
+2) git checkout - checkout previous changes
+3) git revert - create new commit based on the change which checkout previously
+4) git commit --amend - change description and commit changes
+5) git status - status of the repository
+6) git diff - show differences between repository and working directory
+7) git show - show information about commit
+8) git rm --cached - remove file from staging
+9) git config --global user.email - change email in global config
+10) git branch - create new branch from the current branch
+11) git checkout - switch branch
+12) git branch -d - delete branch
 
