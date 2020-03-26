@@ -46,3 +46,4 @@ Gui commands:
 
 1) To create new branch: Branch -> Create
 2) To show changes: click Rescan button on bottom right box
+3) Ok that's all
