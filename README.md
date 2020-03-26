@@ -42,3 +42,5 @@ Command list with descriptions to track changes in the repository:
 8) git revert - create new commit based on the change which checkout previously 
 9) git rm --cached - remove file from staging
 
+That's all!!!!
+
